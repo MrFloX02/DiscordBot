@@ -80,24 +80,6 @@ client.on("message", msg => {
   }
 })
 
-function nbAleatoire(nbPersonnes) {
-
-  min = 1;
-  max = nbPersonnes;
-
-  for (let i = 1; i < max; i++) {
-
-    res = res + "Player ". i + "= " + Math.floor(Math.random() * (max - min +1)) + min;
-    
-  }
-
-  return res;
-}
-
-//console.log(nbAleatoire(5));
-
-
-
 client.login(process.env.TOKEN)
 
 
