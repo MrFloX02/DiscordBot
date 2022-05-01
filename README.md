@@ -1,5 +1,6 @@
 > Messager Eric
 > Discord Bot
+> JS
 
 # DiscordBot
 
