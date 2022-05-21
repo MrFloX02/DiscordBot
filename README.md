@@ -1,7 +1,8 @@
-> Messager Eric
-> Discord Bot
-> JS
+## Team
+- Messager Eric
 
-# DiscordBot
+## Subject 
+Discord interacting Bot
 
-A simple messaging discord bot :)
+## Languages
+- JS
